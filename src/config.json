@@ -1,3 +1,5 @@
 {
-    "original_prices": true
+    "set_original_prices" : false,
+    "prices_multiplier" : 0.8,
+    "enable_trader_levels" : true
 }
